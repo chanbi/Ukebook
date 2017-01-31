@@ -1,0 +1,47 @@
+{title: Alabaster Box}
+{artist: Julie Meyer}
+{album: Worship}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3ZruxaghC3k" frameborder="0" allowfullscreen></iframe>
+{comment: Verse 1}
+[C]All I [G]am is [Am]all I h[F]ave
+And [C]all, all I have to g[G]ive
+And I give it [F]all to You
+
+{comment: Pre-Chorus}
+It's my f[C]ragrant [G]oil
+My c[Am]ostly perf[F]ume
+I take my [C]Alabaster Box
+And [G]I, I break it [F]open
+
+{start_of_chorus}
+{comment: Chorus (x2)}
+Let the fragrance ar[C]ise
+La la la [G]la  la la la [F]la
+{end_of_chorus}
+
+{comment: Verse 2}
+So take [C]every [G]song every s[Am]poken [F]word
+All of my d[C]ance, all of my [G]rhyme
+I give it [F]all to You
+
+{comment: Pre-Chorus}
+{comment: Chorus (x4)}
+.
+
+{comment: Bridge}
+So I [G]pour [F]out [G]all [F]my [G]worsh[F]ip over [C]You
+And I [G]sing [F]my [G]song [F]of [G]worsh[F]ip straight to [C]You
+And I [G]pour [F]out [G]all [F]my [G]worsh[F]ip   
+And I [G]pour [F]out [G]all [F]my [G]worsh[F]ip   
+So I [G]pour [F]out [G]all [F]my [G]worsh[F]ip over [C]You
+
+{comment: Outro (x4)}
+[C] La la la [G]la La la la [F]la
+
+{comment: Pre-Chorus}
+
+I break it open
+And I pour it out
+And I pour it out
+Over you

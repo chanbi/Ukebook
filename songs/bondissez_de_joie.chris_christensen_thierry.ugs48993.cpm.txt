@@ -1,0 +1,20 @@
+{title: Bondissez de joie}
+{artist: Chris Christensen & Thierry Ostrini}
+{album: Préscolaire}
+
+{ukeGeeks-meta: Écouter: <a href="http://jemaf.free.fr/musique/mp3/jem607.mp3">http://jemaf.free.fr/musique/mp3/jem607.mp3</a>}
+
+{comment: Couplet 1}
+[G]Bondi[C]ssez de [G]joie
+[G]Louez [D]le Sei[G]gneur
+[G]Bondi[C]ssez de [G]joie
+[G]Louez [D]le Sei[G]gneur
+
+{comment: Couplet 2}
+[G]Son amour infini n’a [C]pas de [G]fin
+[G]Et son règne éternel dure [D]à ja[G]mais
+[G]Son amour infini n’a [C]pas de [G]fin
+[G]Et son règne éternel dure [D]à ja[G]mais
+
+{comment: Couplet 3 (2x)}
+[G]La la la la la [C]la [G]la

@@ -1,0 +1,54 @@
+{title: Puf the Magic Dragon}
+{artist: Peter Paul and Mary}
+{album: Ukulele Tricks Lessons}
+
+{ukeGeeks-meta: <iframe width="560" height="315" src="//www.youtube.com/embed/RC2tlNmz4ao" frameborder="0" allowfullscreen></iframe><br/><br/>}
+{ukeGeeks-meta: Pattern: d-du-udu}
+
+{comment: Verse 1}
+[C]Puff, the magic [Em]dragon [F]lived by the [C]sea,
+And [F]frolicked in the [C]autumn [Am]mist in a [D7]land called Hona[G7]lee.
+And [C]little Jackie [Em]Paper [F]loved that rascal [C]Puff,
+And [F]brought him strings and [C]sealing [Am]wax, and [D7]other [G7]fancy [C]stuff.[G7]  
+
+{start_of_chorus}
+{comment: Chorus}
+Oh, [C]Puff the magic [Em]dragon [F]lived by the [C]sea,
+And [F]frolicked in the [C]autumn [Am]mist in a [D7]land called Hona[G7]lee.
+[C]Puff, the magic [Em]dragon [F]lived by the [C]sea,
+And [F]frolicked in the [C]autumn [Am]mist in a [D7]land called [G7]Hona[C]lee.[G7]  
+{end_of_chorus}
+
+{comment: Verse 2}
+To[C]gether they would [Em]travel on a [F]boat with billowed [C]sail,
+[F]Jackie kept a [C]lookout [Am]perched on [D7]Puff's gigantic [G7]tail,
+[C]Noble kings and [Em]princes would [F]bow whene'er they [C]came,
+[F]Pirate ships would [C]lower their [Am]flag when [D7]Puff roared [G7]out his [C]name.[G7]  
+
+{start_of_chorus}
+{comment: Chorus}
+Oh, [C]Puff the magic [Em]dragon [F]lived by the [C]sea,
+And [F]frolicked in the [C]autumn [Am]mist in a [D7]land called Hona[G7]lee.
+[C]Puff, the magic [Em]dragon [F]lived by the [C]sea,
+And [F]frolicked in the [C]autumn [Am]mist in a [D7]land called [G7]Hona[C]lee.[G7]  
+{end_of_chorus}
+
+{comment: Verse 3}
+A [C]dragon lives for[Em]ever but [F]not so little [C]boys,
+[F]Painted wings and [C]giant [Am]rings make [D7]way for other [G7]toys,
+[C]One grey night it [Em]happened, Jackie [F]Paper came no [C]more,    
+And [F]Puff that mighty [C]drag[Am]on, he [D7]ceased his [G7]fearless [C]roar.[G7]  
+
+{comment: Verse 4}
+His [C]head was bent in [Em]sorrow, [F]green scales fell like [C]rain,
+[F]Puff no longer [C]went to [Am]play a[D7]long the cherry [G7]lane,
+With[C]out his lifelong [Em]friend, [F]Puff could not be [C]brave,
+So [F]Puff that mighty [C]drag[Am]on, sadly [D7]slipped in[G7]to his [C]cave.[G7]  
+
+{start_of_chorus}
+{comment: Chorus}
+Oh, [C]Puff the magic [Em]dragon [F]lived by the [C]sea,
+And [F]frolicked in the [C]autumn [Am]mist in a [D7]land called Hona[G7]lee.
+[C]Puff, the magic [Em]dragon [F]lived by the [C]sea,
+And [F]frolicked in the [C]autumn [Am]mist in a [D7]land called [G7]Hona[C]le[F]e.[C]  [G7]   [C] 
+{end_of_chorus}

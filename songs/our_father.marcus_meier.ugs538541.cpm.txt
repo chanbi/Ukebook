@@ -1,0 +1,36 @@
+{title: Our Father}
+{artist: Marcus Meier}
+{album: Worship}
+
+{ukeGeeks-meta: <iframe width="560" height="315" src="//www.youtube.com/embed/GVVwmf4Zm4g" frameborder="0" allowfullscreen></iframe>}
+
+{define: C/E frets 0 0 0 3 fingers 0 0 0 3}
+{define: G/B frets 0 2 3 2 fingers 0 1 3 2}
+
+{comment: Intro (2x)}
+[G][C/E][C]
+
+{comment: Verse}
+￼￼￼Our [G]Father in Heaven
+[C]￼Hallowed be [D]Your name
+￼￼￼Your [G]Kingdom come quickly
+[C]￼Your will be [D]done the same
+
+{start_of_chorus}
+{comment: Chorus}
+On [C]￼Earth [G/B]as it [Am]is in [Em]Heaven
+￼￼￼Let [D]Heaven come to
+[C]￼Earth [G/B]as it [Am]is in [Em]Heaven
+Let [D]Heav[G]en [C/E]come [C]
+{comment: To Post-Chorus}
+Let [D]Heav[G]en [C]come [Em]
+{end_of_chorus}
+
+{comment: Post-Chorus}
+￼Let Hea[C]ven come, [Em]let Heaven come
+
+{comment: Bridge}
+[C]￼Yours is the Kingdom, [D]Yours is the power
+[Em]￼Yours is the [G/B]glory forever, amen
+[C]￼Yours is the Kingdom, [D]Yours is the power
+[Em]￼Yours is the [G/B]glory forever amen

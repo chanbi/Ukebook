@@ -1,0 +1,60 @@
+{title: Dieu tout puissant}
+{artist: Inconnu}
+{album: Chantique}
+
+{comment: Couplet 1}
+Dieu tout puis[A]sant, quand mon cœur consi[D]dère
+Tout l’uni[A]vers cré[E]é par ton pou[A]voir;
+Le ciel d’a[A]zur, les éclairs, le ton[D]nerre,
+Le clair ma[A]tin ou [E]les ombres du [A]soir.
+
+{start_of_chorus}
+{comment: Refrain}
+De tout mon [A]être, a[D]lors, s’élève un [A]chant: 
+Dieu tout puis[E]sant, que tu es [A]grand!
+De tout mon [A]être, a[D]lors, s’élève un [A]chant: 
+Dieu tout puis[E]sant, que [D]tu [E]es [A]grand!
+{end_of_chorus}
+
+{comment: Couplet 2}
+Quand, par les bois ou la forêt profonde,
+J’entends, joyeux, tous les oiseaux chanter;
+Quand, sur les monts, la source avec son onde
+Livre au zéphyr son chant doux et léger.
+
+{start_of_chorus}
+{comment: Refrain}
+Mon cœur heureux s’écrie à chaque instant: 
+Ô Dieu d’amour, que tu es grand!
+Mon cœur heureux s’écrie à chaque instant:    
+Ô Dieu d’amour, que tu es grand!
+{end_of_chorus}
+
+{comment: Couplet 3}
+Mais quand je songe, ô sublime mystère,
+Qu’un Dieu si grand a pu penser à moi;
+Que son cher fils est devenu mon frère,
+Et que je suis l’héritier du grand roi.
+
+{start_of_chorus}
+{comment: Refrain}
+Alors mon cœur redit, la nuit, le jour: 
+Que tu es bon, ô Dieu d’amour!
+Alors mon cœur redit, la nuit, le jour: 
+Que tu es bon, ô Dieu d’amour!
+{end_of_chorus}
+
+{comment: Couplet 4}
+Quand mon sauveur, éclatant de lumière,
+Se lèvera de son trône éternel;
+Et que, laissant les douleurs de la terre,
+Je pourrai voir les splendeurs de son ciel.
+
+{start_of_chorus}
+{comment: Refrain}
+Je redirai dans son divin séjour: 
+Rien n’est plus grand que ton amour!
+Je redirai dans son divin séjour: 
+Rien n’est plus grand que ton amour!
+{end_of_chorus}
+

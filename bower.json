@@ -1,0 +1,39 @@
+{
+  "name": "ukebook",
+  "description": "Ukulele Songbook",
+  "version": "0.0.1",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-animate": "~1.4.9",
+    "angular-route": "~1.4.9",
+    "bootstrap": "~3.3.6",
+    "angular": "~1.4.9",
+    "font-awesome": "~4.5.0",
+    "angular-bootstrap": "~1.1.1",
+    "angular-bootstrap-fixes": "~1.0.2",
+    "respond": "~1.4.2",
+    "html5shiv": "^3.7.3"
+  },
+  "overrides": {
+    "bootstrap": {
+      "main": [
+        "dist/js/bootstrap.js",
+        "dist/css/bootstrap.css",
+        "less/bootstrap.less"
+      ]
+    },
+    "font-awesome": {
+      "main": [
+        "css/font-awesome.css",
+        "less/font-awesome.less",
+        "scss/font-awesome.scss"
+      ]
+    }
+  }
+}

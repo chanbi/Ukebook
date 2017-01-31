@@ -1,0 +1,18 @@
+{title: Transposing Cheat Sheet}
+{artist: Theory}
+{album: Practice}
+
+[Key]—————|—[I]————[ii]————[iii]————[IV]————[V]————[vi]————[viiº]————
+[C major]—————|—[C]————[Dm]————[Em]————[F]————[G]————[Am]————[Bdim]————
+[Db major]—————|—[Db]————[Ebm]————[Fm]————[Gb]————[Ab]————[Bbm]————[Cdim]————
+[D major]—————|—[D]————[Em]————[F#m]————[G]————[A]————[Bm]————[C#dim]————
+[Eb major]—————|—[Eb]————[Fm]————[Gm]————[Ab]————[Bb]————[Cm]————[Ddim]————
+[E major]—————|—[E]————[F#m]————[G#m]————[A]————[B]————[C#m]————[D#dim]————
+[F major]—————|—[F]————[Gm]————[Am]————[Bb]————[C]————[Dm]————[Edim]————
+[F# major]—————|—[F#]————[G#m]————[A#m]————[B]————[C#]————[D#m]————[E#dim]————
+[Gb major]—————|—[Gb]————[Abm]————[Bbm]————[Cb]————[Db]————[Ebm]————[Fdim]————
+[G major]—————|—[G]————[Am]————[Bm]————[C]————[D]————[Em]————[F#dim]————
+[Ab major]—————|—[Ab]————[Bbm]————[Cm]————[Db]————[Eb]————[Fm]————[Gdim]————
+[A major]—————|—[A]————[Bm]————[C#m]————[D]————[E]————[F#m]————[G#dim]————
+[Bb major]—————|—[Bb]————[Cm]————[Dm]————[Eb]————[F]————[Gm]————[Adim]————
+[B major]—————|—[B]————[C#m]————[D#m]————[E]————[F#]————[G#m]————[A#dim]————

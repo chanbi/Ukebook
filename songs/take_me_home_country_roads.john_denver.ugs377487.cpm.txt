@@ -1,0 +1,38 @@
+{title: Take Me Home, Country Roads}
+{artist: John Denver}
+{album: Ukulele Tricks Lessons}
+
+{ukeGeeks-meta: <iframe width="560" height="315" src="//www.youtube.com/embed/5Te7QaWcvtU" frameborder="0" allowfullscreen></iframe><br/><br/>}
+{ukeGeeks-meta: Original Song: <a href="http://youtu.be/1vrEljMfXYo">http://youtu.be/1vrEljMfXYo</a>}
+{ukeGeeks-meta: Pattern: d-dududu}
+
+{comment: Verse 1}
+[G]Almost heaven,[Em] West Virginia
+[D]Blue ridge mountains
+[C]Shenandoah r[G]iver
+[G]Life is old there, [Em]older than the trees
+[D]Younger than the mountains
+[C]Growin’ like a [G]breeze
+
+{start_of_chorus}
+{comment: Chorus}
+Country [G]roads, take me [D]home
+To the p[Em]lace I bel[C]ong
+West Vir[G]ginia, mountain mo[D]mma
+Take me h[C]ome, country r[G]oads
+{end_of_chorus}
+
+{comment: Verse 2}
+[G]All my memories[Em] gathered round her
+[D]Miners lady, [C]stranger to blue [G]water
+[G]Dark and dusty,[Em] painted on the sky
+[D]Misty taste of moonshine
+[C]Teardrops in my [G]eye
+
+{comment: Bridge}
+[Em]I hear her [D]voice
+In the m[G]ornin’ hour she calls me
+The r[C]adio re[G]minds me of my h[D]ome far away
+And d[Em]rivin’ down the [D]road I get a f[C]eelin’
+That I should have been home y[D]esterday, yester[D7]day
+

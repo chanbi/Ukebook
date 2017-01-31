@@ -1,0 +1,68 @@
+{title: Ô Dieu}
+{artist: Chris Tomlin}
+{album: Louange}
+
+{define: F#/A# frets 3 1 2 1 fingers 3 1 2 1 add: string 1 fret 1 finger 1 add: string 3 fret 1 finger 1}
+{define: F#sus frets 1 1 2 4 fingers 1 1 2 4 add: string 3 fret 1 finger 1 add: string 4 fret 1 finger 1}
+{define: E2 frets 4 4 4 2 fingers 2 3 4 1}
+{define: B/D# frets 4 3 2 2 fingers 3 2 1 1}
+
+Paroles et musique : Chris Tomlin, Jesse Reeves, Jonas Myrin, Matt Redman <br/>© 2010 Thank You Music, Sixsteps Music, Sais And Done Music, Vamos <br/>Publishing, SHOUT ! Publishing<br/>
+<iframe width="560" height="315" src="//www.youtube.com/embed/AFQOQe91648" frameborder="0" allowfullscreen></iframe>
+
+{comment: Intro (x2)} 
+[G#m] [E] [B] [F#]
+ 
+{comment: Couplet 1} 
+[G#m]Tu trans[E]formas l’eau [B]en vin 
+[G#m]Touchas [E]les yeux de [B]ta main 
+Nul n'est com[C#m7]me toi 
+Comme to[F#sus]i         [F#]
+ 
+{comment: Couplet 2} 
+[G#m]Dans nos [E]ténèbres tu [B]brilles 
+[G#m]Tu nous [E]redonnes [B]la vie 
+Nul n'est com[C#m7]me toi 
+Comme to[F#sus]i         [F#]
+ 
+{start_of_chorus}
+{comment: Refrain 1} 
+[G#m]Dieu admirabl[E]e, inébranlable 
+[B]Ton nom surpasse [F#/A#]toute puissance 
+[G#m]Dieu de miracl[E]e, incomparable 
+Ô Die[B]u, ô Dieu[F#sus] [G#m] [E] [B] [F#]
+{end_of_chorus}
+
+{comment: Bridge musical} 
+[G#m] [E] [B] [F#sus]
+
+{comment: Bridge 1} 
+[G#m]Si notre Dieu est pour nous 
+[E]Qui pourra nous arrêter 
+[B]Et si Dieu est avec nous 
+[F#sus]Qui sera contre [G#m]nous 
+[G#m]Si notre Dieu est pour nous 
+[E]Qui pourra nous arrêter 
+[B]Et si Dieu est avec nous 
+[F#sus]Qui sera contre [G#m]nous   [E] [B/D#] [F#]
+Qui sera contre [G#m]nous   [E] [B/D#] [F#]
+
+{start_of_chorus}
+{comment: Refrain 2} 
+[G#m]Dieu admirabl[E2]e, inébranlable 
+[B]Ton nom surpasse [F#/A#]toute puissance 
+[G#m]Dieu de miracl[E2]e, incomparable 
+Ô Die[B]u, ô Dieu[F#sus]
+{end_of_chorus}
+
+{comment: Bridge 2} 
+[G#m]Si notre Dieu est pour nous 
+[E2]Qui pourra nous arrêter 
+[B]Et si Dieu est avec nous 
+[F#/A#]Qui sera contre [G#m]nous 
+[G#m]Si notre Dieu est pour nous 
+[E2]Qui pourra nous arrêter 
+[B]Et si Dieu est avec nous 
+[F#sus]Qui sera contre [G#m]nous   [E] [B/D#] [F#]
+Qui sera contre [G#m]nous   [E] [B/D#] [F#]
+

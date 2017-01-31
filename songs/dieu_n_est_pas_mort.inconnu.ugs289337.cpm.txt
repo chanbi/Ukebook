@@ -1,0 +1,16 @@
+{title: Dieu n’est pas mort}
+{artist: Inconnu}
+{album: Préscolaire}
+
+{comment: Couplet 1}
+[C]Dieu n’est pas mort, non
+[C]Il est vivant!
+[G]Dieu n’est pas mort, non
+[C]Il est vivant!
+[C]Dieu n’est pas mort, non
+[C]Il est vivant!
+
+{comment: Couplet 2}
+[E]Je le sens dans mes mains,
+[E]Je le sens dans mes pieds,
+[E]Je le sens partout en [C]moi.

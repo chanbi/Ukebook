@@ -1,0 +1,29 @@
+{title: Give Me Jesus}
+{artist: Matt Stinton}
+{album: Worship}
+
+{comment: Intro}
+E 
+
+{comment: Chorus}
+A2 C#m
+Give me Jesus
+A2 Emaj7
+Give me Jesus
+A C#m
+You can have all this world
+AE
+Give me Jesus
+
+{comment: Interlude}
+A/// C#m/// A/// C#m/// A/// C#m/// A/// Emaj7/// 
+
+{comment: Verse}
+AEB
+Give me the One my soul delights in
+AEB
+Give me the One in whom my hope is securely found
+Securely found interludes: A/// E/// B/// x2 - A/// C#m/// B/// A/// E/// B///
+
+# Traditional African-American Spiritual. Verse written by Matt Stinton.
+# © 2013 Bethel Music Publishing (ASCAP). All Rights Reserved. Used by Permission.

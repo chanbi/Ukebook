@@ -1,0 +1,48 @@
+{title: Ever Be}
+{artist: Bethel Music}
+{album: Worship}
+
+{ukeGeeks-meta: <iframe width="560" height="315" src="https://www.youtube.com/embed/BhasSpSBdEE" frameborder="0" allowfullscreen></iframe><br/><br/>}
+
+{define: Bm9 frets 2 1 0 2 fingers 2 1 0 3}
+
+By: Kalley Heiligenthal, Gabriel Wilson, Chris Greely, Bobby Strand
+
+{comment: Intro}
+[D] [Bm9] [F#m] [G] 
+
+{comment: Verse 1}
+[D]Your love is devoted[Em], like a ring of solid [G]gold
+Like a vow that is tested[F#m], like a [A]covenant of old                         
+[D]Your love is enduring[Em], through the winter [G]rain  
+And beyond the horizon[F#m], with [A]mercy for today
+
+{comment: Pre-Chorus}
+[G]Faithful You have [D]been, and faithful you will [A]be
+You pledge yourself to [Em]me, and it’s why I sing
+
+{start_of_chorus}
+{comment: Chorus}                    
+Your pra[G]ise will ever be on my [D]lips, ever be on my lips          
+Your pra[Bm]ise will ever be on my [A]lips, ever be on my lips
+{end_of_chorus}
+
+{comment: Verse 2}
+You Father the orphan, your kindness makes us whole
+You shoulder our weakness, and Your strength becomes our own
+You’re making me like you, clothing me in white
+Bringing beauty from ashes, for You will have Your bride
+
+{comment: Pre-Chorus}
+Free of all her guilt, and rid of all her shame
+And known by her true name, and it’s why I sing
+
+{comment: Bridge}
+[D]You will be praised, [A]You will be praised
+[Bm]With angels and saints we sing [G]worthy are You Lord 
+[D]You will be praised, [Em]You will be praised
+[Bm]With angels and saints we sing [G]worthy are You Lord
+
+{comment: CCLI# 7030065}
+{comment: ©2014 Bethel Music Publishing (ASCAP). All Rights Reserved. Used by Permission.}
+

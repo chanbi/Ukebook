@@ -1,0 +1,14 @@
+{title: If I Give it All}
+{artist: Will Reagan}
+{album: Worship}
+
+{ukeGeeks-meta: <iframe width="560" height="315" src="//www.youtube.com/embed/jevKSkFDiYk" frameborder="0" allowfullscreen></iframe><br/><br/>}   
+{ukeGeeks-meta: Copyright 2010 United Pursuit Music (ASCAP) CCLI#5911268}
+{ukeGeeks-meta: Time: 4/4}
+
+{comment: Verse 1}
+If I [Am]give it all to [C]You will You [G]make it all new
+
+{comment: Verse 2}
+If I [Am]open up my [C]hands will You [G]fill them again
+

@@ -1,0 +1,38 @@
+{title: Swing Low, Sweet Chariot}
+{artist: Wallis Willis}
+{album: Ukulele Tricks Lessons}
+
+Tempo: 70 bpm <br/>
+<iframe width="560" height="315" src="//www.youtube.com/embed/v8frEt6w4G8" frameborder="0" allowfullscreen></iframe>
+
+{start_of_chorus}
+{comment: Chorus}
+Swing [F]low, sweet [A#]chari[F]ot,
+[F]Comin' for to carry me [C]home[C7].
+Swing [F]low, [F7]sweet [A#]chari[F]ot,
+[F]Comin' for to [C7]carry me [F]home.
+{end_of_chorus}
+
+{comment: Verse 1}
+I [F]looked over Jordan and [A#]what did I [F]see,
+[F]Comin' for to carry me [C]home.
+A [F]band of angels [A#]comin' after [F]me,
+[F]Comin' for to [C7]carry me [F]home.
+
+{comment: Verse 2}
+I'm [F]sometimes up and [A#]sometimes I'm [F]down.
+[F]Comin' for to carry me [C]home.
+But [F]still I know I'm [A#]heaven [F]bound.
+[F]Comin' for to [C7]carry me [F]home.
+
+{comment: Verse 3}
+If [F]you get there [A#]before I [F]do,
+[F]Comin' for to carry me [C]home.
+Tell [F]all my friends I'm [A#]comin' there [F]too.
+[F]Comin' for to [C7]carry me [F]home.
+
+{comment: Verse 4}
+If I [F]get there [A#]before you [F]do,
+[F]Comin' for to carry me [C]home.
+I'll [F]cut a hole and [A#]pull you [F]through.
+[F]Comin' for to [C7]carry me [F]home.

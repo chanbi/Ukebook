@@ -1,0 +1,32 @@
+{title: There’s a Joy}
+{artist: Sean Feucht}
+{album: Worship}
+
+{ukeGeeks-meta:<iframe width="560" height="315" src="//www.youtube.com/embed/lbio3ptlqbg" frameborder="0" allowfullscreen></iframe><br/><br/>}
+{ukeGeeks-meta:Time: 4/4}
+
+{comment: Intro}
+[C][G][Am][F]
+
+{comment: Verse}
+There is a [C]joy in the Holy Ghost, there are p[G]leasure evermore
+Oh oohh oh [Am]oh  Oh oohh oh [F]oh
+Oh my [C]feet are standing sure, Hope is the a[G]nchor of my soul
+Oh oohh oh [Am]oh  Oh oohh oh [F]oh
+
+{start_of_chorus}
+{comment: Chorus}
+[C]I lift my eyes up[G]
+[Am]I set my heart on [F]things above
+[C]I lift my hands high[G]
+[Am]And fill this land with a [F]song of You
+{end_of_chorus}
+
+{comment: Verse - x4 (3rd and 4th time instrumental)}
+[C][G][Am][F]
+
+{comment: Chorus}
+[C][G][Am][F]
+
+{comment: End}
+There is a [C]Joy.

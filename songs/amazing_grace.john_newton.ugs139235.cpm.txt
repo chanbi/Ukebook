@@ -1,0 +1,44 @@
+{title: Amazing Grace}
+{artist: John Newton}
+{album: Hymn}
+
+
+This song was originally written by John Newton in 1779<br/>
+<iframe width="420" height="315" src="//www.youtube.com/embed/eRJTLqUcBOY" frameborder="0" allowfullscreen></iframe>
+
+{comment: Verse 1}
+A[C]mazing Grace, how [F]sweet the [C]sound,
+That saved a wretch like [G7]me.
+I [C]once was lost but [F]now am [C]found,
+Was blind, but [G7]now I [C]see.
+
+{comment: Verse 2}
+[C]T'was Grace that taught my [F]heart to [C]fear.
+And Grace, my fears re[G7]lieved.
+How [C]precious did that [F]Grace ap[C]pear
+The hour I [G7]first be[C]lieved.
+
+{comment: Verse 3}
+[C]Through many dangers, [F]toils and [C]snares
+I have already [G7]come;
+'Tis [C]Grace that brought me [F]safe thus [C]far
+and Grace will [G7]lead me [C]home.
+
+{comment: Verse 4}
+The [C]Lord has promised [F]good to [C]me.
+His word my hope se[G7]cures.
+He [C]will my shield and [F]portion [C]be,
+As long as [G7]life en[C]dures.
+
+{comment: Verse 5}
+[C]Yea, when this flesh and [F]heart shall [C]fail,
+And mortal life shall [G7]cease,
+I [C]shall possess with[F]in the [C]veil,  
+A life of [G7]joy and [C]peace.
+
+{comment: Verse 6}
+[C]When we've been here ten [F]thousand [C]years
+Bright shining as the [G7]sun.
+[C]We've no less days to [F]sing God's [C]praise
+Than when we've [G7]first be[C]gun.
+

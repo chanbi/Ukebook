@@ -1,0 +1,27 @@
+{title: Set a Fire (Live)}
+{artist: Will Reagan}
+{album: Worship}
+
+{ukeGeeks-meta:<iframe width="560" height="315" src="//www.youtube.com/embed/8dfcp3innRk" frameborder="0" allowfullscreen></iframe><br/><br/>}
+{ukeGeeks-meta:Copyright 2010 United Pursuit Music (ASCAP) CCLI#5911299}
+{ukeGeeks-meta:Time: 4/4}
+
+{comment: Intro}
+[C][F][Am][F] 
+
+{comment: Verse}
+[C]There’s no place I would rather be
+[F]There’s no place I would rather be
+[Am]There’s no place I would rather be
+Than [F]here in your love, here in your love
+
+{start_of_chorus}
+{comment: Chorus}
+[C]Set a fire down in m[F]y soul
+That I can’t contain and I can[Am]’t control
+I want more of You, [F]God
+I want more of You, Go[C]d 
+{end_of_chorus}
+
+{comment: }
+

@@ -1,0 +1,32 @@
+{title: Merveilleux nom}
+{artist: Impact Musique}
+{album: Louange}
+
+{ukeGeeks-meta: <iframe width="560" height="315" src="https://www.youtube.com/embed/FfHLP2-w4qk" frameborder="0" allowfullscreen></iframe><br/><br/>}
+
+{comment: Couplet 1}
+[G]Cou[Em]ronn[D]é, ra[A]yonnant de maje[Bm]sté,
+[G]Tout l’u[Em]niver[D]s proclame ta gr[A]andeur.
+[G]Glo[Em]rifié [D]par [A]les anges proste[Bm]rnés,
+[G]Tu es ass[Em]is à [D]la droite du [A]Père.
+
+{soc}
+{comment: Refrain}
+[G]Jésus, mervei[Em]lleux no[D]m, 
+qui est sembl[A]able à toi, ô D[Bm]ieu?
+[G]Jésus, ton pr[Em]écieux no[D]m 
+est digne d’h[A]ommage.
+{eoc}
+
+{comment: Couplet 2}
+[G]Cap[Em]tivés [D]par [A]l’éclat de ta beau[Bm]té,
+[G]Nos voix [Em]s’él[D]èvent pour te rendre gl[A]oire.
+
+{comment:Pont}
+[D]Consola[G]teur, divin [Em]rocher[D], libé[F#m]rateur, prince [A]de la [Bm]paix.
+[D]Dieu créa[G]teur, fils bien-[Em]aimé[D], roi servit[F#m]eur, Seigneur [A]cour[Bm]onné.
+[D]Commencem[G]ent, ulti[Em]me fin[D], soleil lev[F#m]ant, étoile [A]du [Bm]matin.
+[D]Dieu tout puiss[G]ant, Dieu trois [Em]fois sai[D]nt, sauveur viv[F#m]ant, maître [A]souver[Bm]ain.
+
+{comment:Musical (x4)}
+[G][Em][D][F#m][A][Bm][D]

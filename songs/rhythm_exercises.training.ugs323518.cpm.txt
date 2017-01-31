@@ -1,0 +1,11 @@
+{title: Rhythm Exercises}
+{artist: Training}
+{album: Practice}
+
+{comment: Exercise #1}
+d---d---d---dudu
+1---2---3---4i&a
+
+{comment: Exercise #2}
+d-u-d-u-d-u-dudu
+1-&-2-&-3-&-4i&a

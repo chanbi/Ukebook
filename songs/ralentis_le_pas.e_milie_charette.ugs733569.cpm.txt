@@ -1,0 +1,26 @@
+{title: Ralentis le pas}
+{artist: Émilie Charette}
+{album: Louange}
+
+{ukeGeeks-meta: Chant inspiré d’Ésaïe 30:15 et de la parole prophétique relâchée par Heidi Baker à la conférence de Catch The Fire - Revival Alliance (Session G)<br/><br/>}
+{ukeGeeks-meta: <iframe width="560" height="315" src="//www.youtube.com/embed/w3ON4IBVTZ0" frameborder="0" allowfullscreen></iframe>}
+
+{define: D/B frets 4 2 2 0 fingers 3 1 2 0}
+
+{comment: Intro}
+[Em][D/B][C] 
+
+{comment: Section 1}
+Ralentis le [Em]pas
+Viens près de [D/B]moi
+Je te dévoile[C]rai mes secrets
+
+{comment: Section 2}
+Recherche l’humi[Em]lité, l’inti[D]mité
+Une [C]vie complètement aban[D]donnée
+
+{comment: Section 3}
+Mets tes [Em]mains dans mes mains
+Place tes [D]pieds sur les miens
+Et laisses-toi [C]guider, [D]transporter
+Sur la [Em]vagu[D]e de mon [C]Esprit [D]

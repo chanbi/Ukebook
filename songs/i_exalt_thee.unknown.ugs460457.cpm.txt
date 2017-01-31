@@ -1,0 +1,15 @@
+{title: I Exalt Thee}
+{artist: Unknown}
+{album: Hymn}
+
+{comment: Verse}
+[D]For Thou, O L[G]ord, art [A]high above all the [D]ear[Bm]th.
+Thou art ex[G]alted far ab[A]ove all g[D]ods.
+F[D]or Thou, O L[G]ord, art h[A]igh above all the [D]ear[Bm]th.
+Thou art ex[G]alted far ab[A7]ove all g[D]ods.
+
+{start_of_chorus}
+{comment: Chorus}
+[D]I exalt Thee, I ex[A]alt Thee, I e[G]xalt Thee, O L[D]ord.
+[D]I exalt Thee, I ex[A]alt Thee, I e[G]xalt Thee, O L[D]ord.
+{end_of_chorus}

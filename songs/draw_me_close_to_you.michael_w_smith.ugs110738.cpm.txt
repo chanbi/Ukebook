@@ -1,0 +1,45 @@
+{title: Draw Me Close To You}
+{artist: Michael W. Smith}
+{album: Worship}
+
+
+Source: www.ukulele-tabs.com
+
+{comment: Verse 1}
+[G]Draw me close to [C]You
+[D]Never let me [G]go
+[D]I Lay it all [C]down again
+[Em]To hear you say that I'm [C]your friend
+
+{comment: Verse 2}
+[G]You are my des[C]ire
+[D]No one else will [G]do
+[D]'Cause nothing else can [C]take your place
+[Em]To feel the warmth of [C]your embrace
+[G]Help me find a [C]way
+[D]Bring me back to [G]You
+
+{start_of_chorus}
+{comment: Chorus}
+[G]You're all [D]I wa[C]nt
+[G]You're all [D]I've ev[C]er nee[D]ded
+[G]You're all [D]I wa[C]nt
+[C]Help me know You [D]are [G]near
+{end_of_chorus}
+
+G///C///
+D///G///
+D///C///
+Em/////C/////
+-
+G///C///
+D///G///
+D///C///
+Em/////C/////
+G///C///
+D///G///
+-
+G/D/C///
+G/D/C/D/
+G/D/C///
+C///D/G/

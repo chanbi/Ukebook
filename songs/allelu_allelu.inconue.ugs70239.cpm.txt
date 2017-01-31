@@ -1,0 +1,17 @@
+{title: Allelu, Allelu}
+{artist: Inconnu}
+{album: Préscolaire}
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/Rj_QAD1mILY" frameborder="0" allowfullscreen></iframe>
+
+{comment: Couplet 1}
+Al[D]lelu, Al[D7]lelu, Al[G]lelu, Allelui[Em]a
+[D]Gloire [A7]au [D]Seigneur
+Al[D]lelu, Allelu, Al[G]lelu, Alleluia
+[D]Gloire [A7]au [D]Seigneur.
+
+{comment: Couplet 2}
+[D]Gloire au Seign[A7]eur, Alleluia
+[A7]Gloire au Seign[D]eur, Alleluia
+[D]Gloire au Seig[A7]neur, Alleluia
+[A7]Gloire au Seign[D]eur.

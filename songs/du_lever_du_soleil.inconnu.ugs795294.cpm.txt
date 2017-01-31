@@ -1,0 +1,12 @@
+{title: Du lever du soleil}
+{artist: Inconnu}
+{album: Préscolaire}
+
+{comment: Couplet 1}
+[D]Du lever [A]du sol[D]eil
+Jusqu’[G]à [A]son couch[D]ant
+Que le [G]nom de l’Ét[A]ernel soit célébr[D]é
+
+{comment: Couplet 2}
+[D]Louons [G]le Sei[D]gn-[A]eu-r
+[D]Louons [G]le Sei[D]gn-[A]eu-r

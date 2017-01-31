@@ -1,0 +1,13 @@
+{title: Mary had a little lamb}
+{artist: Traditional}
+{album: Ukulele Tricks Lessons}
+
+{ukeGeeks-meta:<iframe width="420" height="315" src="//www.youtube.com/embed/4Qv_F5Drvd0" frameborder="0" allowfullscreen></iframe><br/><br/>}
+{ukeGeeks-meta:Source: <a href="http://www.ukuleletricks.com">www.ukuleletricks.com</a>}
+{ukeGeeks-meta:Time: 4/4 | Pattern: d-d-d-d-}
+
+[C]Mary had a little lamb, [G]little lamb, [C]little lamb
+[C]Mary had a little lamb whose [G]fleece was white as [C]snow.
+
+[C]Everywhere that Mary went, [G]Mary went, [C]Mary went
+[C]And everywhere that Mary went, [G]the lamb was sure to [C]go.

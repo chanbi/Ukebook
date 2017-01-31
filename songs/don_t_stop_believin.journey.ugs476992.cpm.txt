@@ -1,0 +1,63 @@
+{title: Don’t Stop Believin’}
+{artist: Journey}
+{album: Ukulele Tricks Lessons}
+
+Tempo: 100 bpm<br/>
+Pattern: (verses) dddddddd, (turn arounds/solo) ddDdddDd, (chorus) d-du-udu<br/>
+<iframe width="560" height="315" src="//www.youtube.com/embed/1k8craCGpgs" frameborder="0" allowfullscreen></iframe>
+
+{comment: Intro}
+[G] [D] [Em] [C] [G] [D] [Bm] [C] 
+
+{comment: Verse 1}
+[G]Just a [D]small town girl[Em], living in a [C]lonely world
+[G]She took the [D]midnight train going [Bm]anywh[C]ere
+
+{comment: Verse 2}
+[G]Just a [D]city boy[Em], born and raised in [C]south Detroit
+[G]He took the [D]midnight train going [Bm]anywh[C]ere
+
+{comment: Turn Around}
+[G] [D] [Em] [C] [G] [D] [Bm] [C] 
+
+{comment: Verse 3}
+[G]A singer in a [D]smoky room[Em], a smell of wine and [C]cheap perfume
+[G]For a smile they can [D]share the night, it goes [Bm]on and on and[C] on and on
+
+{start_of_chorus}
+{comment: Chorus}
+[C]Strangers waiting[G] up and down the boulevard
+Their s[C]hadows searching in the [G]night
+[C]Streetlight,[G] people, living just to find emotion
+[C]Hiding, somewhere in the [D]ni[G]gh[D]t [C] 
+{end_of_chorus}
+
+{comment: Turn Around}
+[G] [D] [Em] [C] 
+
+{comment: Verse 4}
+[G]Working hard to[D] get my fill[Em], everybody [C]wants a thrill
+[G]Paying anything to [D]roll the dice, just [Bm]one more [C]time
+
+{comment: Verse 5}
+[G]Some will win, [D]some will lose[Em], some were born to [C]sing the blues
+[G]Oh, the movie [D]never ends; it goes [Bm]on and on and[C] on and on
+
+{start_of_chorus}
+{comment: Chorus}
+[C]Strangers waiting[G] up and down the boulevard
+Their s[C]hadows searching in the [G]night
+[C]Streetlight,[G] people, living just to find emotion
+[C]Hiding, somewhere in the [D]ni[G]gh[D]t [C]
+{end_of_chorus}
+
+{comment: Solo}
+[G] [D] [Em] [C] [G] [D] [Bm] [C] 
+
+{comment: Outro}
+[G]Don't stop [D]believin[Em]g hold on to the [C]feeling
+[G]Streetlight[D] people, [Bm]ohh   [C] 
+[G]Don't stop [D]believin[Em]g hold on to the [C]feeling
+[G]Streetlight[D] people, [Bm]ohh   [C] 
+[G]Don't stop [D]believin[Em]g hold on to the [C]feeling
+[G]Streetlight[D] people, [Bm]ohh   [C] 

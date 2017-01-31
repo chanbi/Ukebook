@@ -1,0 +1,15 @@
+{title: Chord Progressions}
+{artist: Training}
+{album: Practice}
+
+<a href="https://autochords.com/">Chord Progression Generator</a><br/>
+You can vary up any of these progressions how you’d like to keep variety in your practice.<br/><br/>
+
+[C]------[G]------[Am]------[F]------------
+[Bb]------[F]------[Eb]------[Gm]------------
+[C]------[E7]------[G7]------[F]------------
+[D7]------[G7]------[A7]------------------
+[C]------[Am]------[F]------[G7]------------
+[C]------[E7]------[A7]------[D7]------[G7]------
+[F]------[C7]------[Dm]------[C7]------------
+[G]------[Em]------[C]------[D]------------

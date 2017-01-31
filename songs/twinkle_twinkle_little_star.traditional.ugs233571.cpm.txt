@@ -1,0 +1,15 @@
+{title: Twinkle, Twinkle Little Star}
+{artist: Traditional}
+{album: Ukulele Tricks Lessons}
+
+{ukeGeeks-meta:Source: <a href="http://www.ukuleletricks.com">www.ukuleletricks.com</a>}
+{ukeGeeks-meta:Time: 4/4 | Pattern: dudududu}
+
+{comment:Verse}
+[C]Twinkle Twinkle [F]little [C]star
+[F]How I [C]wonder [G]what you [C]are
+[C]Up abo[F]ve the [C]word so [G]high
+[C]Like a [F]diamond [C]in the [G]sky
+[C]Twinkle Twinkle [F]little [C]star
+[F]How I [C]wonder [G]what you [C]are
+

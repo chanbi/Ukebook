@@ -1,0 +1,48 @@
+{title: Amazing Grace (My Chains Are Gone)}
+{artist: Chris Tomlin}
+{album: Worship}
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/Y-4NFvI5U9w" frameborder="0" allowfullscreen></iframe>
+
+{comment: Verse 1}
+A[G]mazing grace, how sw[C]eet the [G]sound
+That sa[G]ved a wretch li[D]ke me
+I o[G]nce was lost, b[C]ut now I'm fo[G]und
+Was bl[G]ind, b[D]ut now I [G]see
+
+{comment: Verse 2}
+'T[G]was grace that taught my[C] heart to f[G]ear
+And gr[G]ace my fears reli[D]eved
+How pre[G]cious did tha[C]t grace a[G]ppear
+The [G]hour i fi[D]rst bel[G]ieved
+
+{start_of_chorus}
+{comment: Chorus}
+My chains are[C] gone, I've been set f[G]ree
+My God, my [C]Savior has ransomed [G]me
+And like a[C] flood His mercy[G] reigns
+Unending lo[D]ve, amazing gr[G]ace
+{end_of_chorus}
+
+{comment: Verse 3}
+The L[G]ord has promise[C]d good to[G] me
+His wo[G]rd my hope s[D]ecures
+He w[G]ill my shield and [C]portion [G]be
+As lo[G]ng as l[D]ife en[G]dures
+
+{start_of_chorus}
+{comment: Chorus (2x)}
+My chains are[C] gone, I've been set f[G]ree
+My God, my [C]Savior has ransomed [G]me
+And like a[C] flood His mercy[G] reigns
+Unending lo[D]ve, amazing gr[G]ace
+{end_of_chorus}
+
+{comment: Verse 4}
+The ea[G]rth shall soon d[C]issolve like s[G]now
+The s[G]un forbear to sh[D]ine
+But [G]God who called m[C]e here [G]below
+Will[G] be fo[D]rever [G]mine 
+Will[G] be fo[D]rever [G]mine
+You [G]are fo[D]rever [G]mine 
+

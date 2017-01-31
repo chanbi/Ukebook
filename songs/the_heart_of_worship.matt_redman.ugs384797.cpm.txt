@@ -1,0 +1,35 @@
+{title: The Heart of Worship}
+{artist: Matt Redman}
+{album: Worship}
+
+{define: A/C# frets 2 1 0 0 fingers 2 1 0 0}
+{define: D/F# frets 2 2 2 0 fingers 1 1 1 0}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/utWZcdg-v6g" frameborder="0" allowfullscreen></iframe>
+
+{comment: Verse 1}
+[D]When the music [A]fades, and all is stripped [Em]away
+And I simply [A]come
+[D]Longing just to [A]bring something that's of [Em]worth
+That will bless your [A]heart
+
+{comment: Pre-Chorus}
+[Em]I'll bring you [D/F#]more than a [A]song, for a song in [Em]itself
+Is not what [D/F#]you have requ[A]ired [A/C#][D]
+[Em]You search much [D/F#]deeper with[A]in, than the way things [Em]appear
+You're looking [D/F#]into my [A]heart
+
+{soc}
+{comment: Chorus}
+[D]I'm coming back to the [A/C#]heart of worship
+And it's [Em]all about you, [G]all about [A]you, [D]Jesus
+[D]I'm sorry, Lord, for the [A/C#]things I've made it
+When it's [Em]all about you, [G]all about [A]you, [D]Jesus 
+{eoc}
+
+{comment: Verse 2}
+King of endless worth, no one could express
+How much you deserve
+Though I'm weak and poor, all I have is yours
+Every single breath
+

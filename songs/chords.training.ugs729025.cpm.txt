@@ -1,0 +1,67 @@
+{title: Chords}
+{artist: Training}
+{album: Practice}
+
+{define: Aadd9 frets 2 1 0 2 fingers 0 0 0 0}
+{define: Am9 frets 2 0 0 2 fingers 0 0 0 0}
+{define: Bbadd9 frets 3 2 1 3 fingers 0 0 0 0}
+{define: Bbm9 frets 3 1 1 3 fingers 0 0 0 0}
+{define: Badd9 frets 4 3 2 4 fingers 0 0 0 0}
+{define: Bm9 frets 2 1 0 2 fingers 0 0 0 0}
+{define: Cadd9 frets 0 4 3 3 fingers 0 0 0 0}
+{define: Cm9 frets 5 3 3 5 fingers 0 0 0 0}
+{define: Dbadd9 frets 1 3 1 4 fingers 0 0 0 0 add: string 2 fret 1 finger 0 add: string 4 fret 1 finger 0}
+{define: Dbm9 frets 1 3 0 4 fingers 0 0 0 0}
+{define: Dadd9 frets 2 4 2 5 fingers 0 0 0 0}
+{define: Dm9 frets 2 5 0 5 fingers 0 0 0 0}
+{define: Ebadd9 frets 0 3 1 1 fingers 0 0 0 0}
+{define: Ebm9 frets 3 5 0 6 fingers 0 0 0 0}
+{define: Eadd9 frets 1 4 2 2 fingers 0 0 0 0}
+{define: Em9 frets 0 4 2 2 fingers 0 0 0 0}
+{define: Fadd9 frets 0 0 1 0 fingers 0 0 0 0}
+{define: Fm9 frets 0 5 4 3 fingers 0 0 0 0}
+{define: Gbadd9 frets 1 1 2 1 fingers 0 0 0 0 add: string 3 fret 1 finger 0}
+{define: Gbm9 frets 1 2 2 0 fingers 0 0 0 0}
+{define: Gadd9 frets 0 2 5 2 fingers 0 0 0 0}
+{define: Gm9 frets 2 2 3 1 fingers 0 0 0 0}
+{define: Abadd9 frets 3 3 4 3 fingers 0 0 0 0}
+{define: Abm9 frets 3 3 4 2 fingers 0 0 0 0}
+
+<img style="-webkit-user-select: none" src="http://blog.ukegeeks.com/wp-content/uploads/2013/08/ukulele-major-chords-the-four-shapes.png">
+<img style="-webkit-user-select: none" src="http://blog.ukegeeks.com/wp-content/uploads/2013/08/ukulele-7th-chords-the-four-shapes.png">
+
+{comment: A Key}
+[A] [Am] [Aaug] [Adim] [A7] [Am7] [Amaj7] [A6] [Am6] [Aadd9] [Am9] [A9] [Asus2] [Asus4] [A7sus4] 
+
+{comment: Bb Key (A#)}
+[Bb] [Bbm] [Bbaug] [Bbdim] [Bb7] [Bbm7] [Bbmaj7] [Bb6] [Bbm6] [Bbadd9] [Bbm9] [Bb9] [Bbsus2] [Bbsus4] [Bb7sus4] 
+
+{comment: B Key}
+[B] [Bm] [Baug] [Bdim] [B7] [Bm7] [Bmaj7] [B6] [Bm6] [Badd9] [Bm9] [B9] [Bsus2] [Bsus4] [B7sus4] 
+
+{comment: C Key}
+[C] [Cm] [Caug] [Cdim] [C7] [Cm7] [Cmaj7] [C6] [Cm6] [Cadd9] [Cm9] [C9] [Csus2] [Csus4] [C7sus4] 
+
+{comment: Db Key (C#)}
+[Db] [Dbm] [Dbaug] [Dbdim] [Db7] [Dbm7] [Dbmaj7] [Db6] [Dbm6] [Dbadd9] [Dbm9] [Db9] [Dbsus2] [Dbsus4] [Db7sus4] 
+
+{comment: D Key}
+[D] [Dm] [Daug] [Ddim] [D7] [Dm7] [Dmaj7] [D6] [Dm6] [Dadd9] [Dm9] [D9] [Dsus2] [Dsus4] [D7sus4] 
+
+{comment: Eb Key (D#)}
+[Eb] [Ebm] [Ebaug] [Ebdim] [Eb7] [Ebm7] [Ebmaj7] [Eb6] [Ebm6] [Ebadd9] [Ebm9] [Eb9] [Ebsus2] [Ebsus4] [Eb7sus4] 
+
+{comment: E Key}
+[E] [Em] [Eaug] [Edim] [E7] [Em7] [Emaj7] [E6] [Em6] [Eadd9] [Em9] [E9] [Esus2] [Esus4] [E7sus4] 
+
+{comment: F Key}
+[F] [Fm] [Faug] [Fdim] [F7] [Fm7] [Fmaj7] [F6] [Fm6] [Fadd9] [Fm9] [F9] [Fsus2] [Fsus4] [F7sus4] 
+
+{comment: Gb Key (F#)}
+[Gb] [Gbm] [Gbaug] [Gbdim] [Gb7] [Gbm7] [Gbmaj7] [Gb6] [Gbm6] [Gbadd9] [Gbm9] [Gb9] [Gbsus2] [Gbsus4] [Gb7sus4] 
+
+{comment: G Key}
+[G] [Gm] [Gaug] [Gdim] [G7] [Gm7] [Gmaj7] [G6] [Gm6] [Gadd9] [Gm9] [G9] [Gsus2] [Gsus4] [G7sus4] 
+
+{comment: Ab Key (G#)}
+[Ab] [Abm] [Abaug] [Abdim] [Ab7] [Abm7] [Abmaj7] [Ab6] [Abm6] [Abadd9] [Abm9] [Ab9] [Absus2] [Absus4] [Ab7sus4]

@@ -1,0 +1,20 @@
+{title: Jésus je t'aime}
+{artist: Luc Dumont}
+{album: Louange}
+
+{ukeGeeks-meta: <object width="250" height="40" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" id="gsSong377608816" name="gsSong377608816"><param name="movie" value="http://grooveshark.com/songWidget.swf" /><param name="wmode" value="window" /><param name="allowScriptAccess" value="always" /><param name="flashvars" value="hostname=grooveshark.com&songID=37760881&style=metal&p=0" /><object type="application/x-shockwave-flash" data="http://grooveshark.com/songWidget.swf" width="250" height="40"><param name="wmode" value="window" /><param name="allowScriptAccess" value="always" /><param name="flashvars" value="hostname=grooveshark.com&songID=37760881&style=metal&p=0" /><span><a href="http://grooveshark.com/search/song?q=Luc%20Dumont%20Jesus%20je%20t'aime" title="Jesus je t&#39;aime by Luc Dumont on Grooveshark">Jesus je t&#39;aime by Luc Dumont on Grooveshark</a></span></object></object><br/><br/>}
+{ukeGeeks-meta: Tempo: 66 | Time: 4/4}
+
+{define: D/F# frets 2 2 2 0 fingers 1 2 3 0}
+
+{comment: Couplet 1 (x2)}
+[D]Jésus, je [Em]t’aime [D/F#]et je t’ad[G]ore
+
+{start_of_chorus}
+{comment: Refrain}
+[Em]Dans [D/F#]ta présence [G]je suis libre
+[Em]À trav[D/F#]ers tes yeux [G]je peux voir
+{end_of_chorus}
+
+{comment: Couplet 2}
+[D]Jésus, je [Em]t’aime. [D/F#]Mon âme t’ho[G]nore

@@ -1,0 +1,15 @@
+{title: Mon Dieu est si grand}
+{artist: Inconnu}
+{album: Préscolaire}
+
+{ukeGeeks-meta: <audio controls><source src="http://jemaf.free.fr/musique/mp3/jemk104.mp3" type="audio/mpeg"></audio>}
+
+Mon [C]Dieu est si grand, si fort et si puissant
+Mon [G7]Dieu est capable de tout [C]faire.
+Mon [C]Dieu est si grand, si fort et si puissant
+Mon [G7]Dieu est capable de tout [C]faire.
+Il a [F]fait les montagnes, 
+Il a [C]fait les rivières,
+Et [G7]tous les étoiles dans le [C]ciel.
+Mon [C]Dieu est si grand, si fort et si puissant
+Mon [G7]Dieu est capable de tout [C]faire.

@@ -1,0 +1,28 @@
+{title: Oh Lord, You're Beautiful}
+{artist: Keith Green}
+{album: Worship}
+
+{define: C/E frets 0 0 0 3 fingers 0 0 0 3}
+
+�1980, Birdwing Music & BMG Songs, Inc.
+
+{comment: Verse 1}
+Oh [C]Lord, You’re [F]beau[C/E]ti[G]ful
+Your [C]face is [F]all [C/E]I [G]see
+And [Am]when Your [E]eyes are [F]on [G]this [C]child
+Your [Dm7]grace [G]abounds to [C]me
+
+{comment: Verse 2}
+Oh Lord, please light the fire
+That once burned bright and clear
+Replace the lamp of my first love
+That burns with Holy fear
+
+{start_of_chorus}
+{comment: Chorus}
+I want to [F]take [C/E]Your [Dm7]word [C]and [G]shine it all [C]around
+But first help me [F]just to [Am]live it [G]Lord
+And when I’m [F]doing [C/E]well [Dm7]help [C]me
+To [G]never seek a [C]crown
+For my [F]reward is [C/E]giving [Dm]glory [G]to [C]You
+{end_of_chorus}

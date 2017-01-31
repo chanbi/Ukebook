@@ -1,0 +1,37 @@
+{title: Quand l'esprit de Dieu}
+{artist: Inconnu}
+{album: Préscolaire}
+
+{ukeGeeks-meta: <audio controls><source src="http://jemaf.free.fr/musique/mp3/jem152.mp3" type="audio/mpeg"></audio>}
+
+{comment: Couplet 1}
+Quand l'[Am]Esprit de Dieu habite en moi
+Je [Em]chante comme Da[Am]vid.
+Quand l'[Am]Esprit de Dieu habite en moi
+Je [Em]chante comme Da[Am]vid.
+Je [Dm]chan[G]te, je [Am]chan[F]te, je [Em]chante comme Da[Am]vid,
+Je [Dm]chan[G]te, je [Am]chan[F]te, je [Em]chante comme Da[Am]vid.
+ 
+{comment: Couplet 2}
+Quand l'Esprit de Dieu habite en moi
+Je prie comme David.
+Quand l'Esprit de Dieu habite en moi
+Je prie comme David.
+Je prie, je prie, je prie comme David,
+Je prie, je prie, je prie comme David.
+
+{comment: Couplet 3}
+Quand l'Esprit de Dieu habite en moi
+Je loue comme David.
+Quand l'Esprit de Dieu habite en moi
+Je loue comme David.
+Je loue, je loue, je loue comme David,
+Je loue, je loue, je loue comme David.
+
+{comment: Couplet 4}
+Quand l'Esprit de Dieu habite en moi
+Je danse comme David.
+Quand l'Esprit de Dieu habite en moi
+Je danse comme David.
+Je danse, je danse, je danse comme David,
+Je danse, je danse, je danse comme David.

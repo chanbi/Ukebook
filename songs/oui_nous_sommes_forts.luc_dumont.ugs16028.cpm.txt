@@ -1,0 +1,8 @@
+{title: Oui, nous sommes forts}
+{artist: Luc Dumont}
+{album: Préscolaire}
+
+[C]Oui, nous sommes [F]forts
+Nous avons [G]vaincu le malin
+[C]Oui, nous sommes [F]forts   [Dm]  
+[C]Et plus [G]que vain[C]queurs

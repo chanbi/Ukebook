@@ -1,0 +1,29 @@
+{title: I've Been Working On the Railroad}
+{artist: Traditional}
+{album: Ukulele Tricks Lessons}
+
+{ukeGeeks-meta:<iframe width="420" height="315" src="//www.youtube.com/embed/hZ0a8-Cg-d0" frameborder="0" allowfullscreen></iframe><br/><br/>}
+{ukeGeeks-meta:Source: <a href="http://www.ukuleletricks.com/ive-been-working-on-the-railroad-ukulele-chords/">www.ukuleletricks.com</a>}
+{ukeGeeks-meta:Time: 4/4 | Pattern: d-dud-du}
+
+{comment:Verse 1}
+[C]I've been working on the [C7]railroad [F]all the livelong [C]day
+[C]I've been working on the [C7]railroad, just to [D7]pass the time a[G7]way
+[G7]Can't you hear the whistle [C]blowing? [F]Rise up so early in the [E7]morn
+[F]Can't you hear the captain [C]shouting, "[C]Dinah [G]blow your [C]horn!"
+
+{comment:Verse 2}
+[C]Dinah won't you blow, [F]Dinah won't you blow,
+[G]Dinah won't you blow your [C]horn, your horn?
+[C]Dinah won't you blow, [F]Dinah won't you blow,
+[G]Dinah won't you blow your [C]horn?
+
+{comment:Verse 3}
+[C]Someone's in the kitchen with Dinah,
+[C]Someone's in the kitchen [G7]I know,
+[C]Someone's in the kitchen with [F]Dinah,
+[C]Strummin' on the [G]old [C]banjo
+
+{comment:Verse 4}
+[C]Fee fi fiddle-y-i-o, [C]fee fi fiddle-y-i-[G7]o-o-o-o,
+[C]Fee fi [F]fiddle-y-i-o, [C]strummin' on the [G7]old banj[C]o [G][C]

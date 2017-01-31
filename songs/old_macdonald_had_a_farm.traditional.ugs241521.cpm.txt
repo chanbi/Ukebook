@@ -1,0 +1,23 @@
+{title: Old MacDonald Had a Farm}
+{artist: Traditional}
+{album: Misc}
+
+{ukeGeeks-meta:<iframe width="420" height="315" src="//www.youtube.com/embed/0jQM55uzJQ4" frameborder="0" allowfullscreen></iframe><br/><br/>}
+{ukeGeeks-meta:Source: <a href="http://ukulelehub.com/old-macdonald-ukulele/">ukulelehub.com</a>}
+{ukeGeeks-meta:Time: 4/4 | Pattern: d-dud-du}
+
+{comment: Verse 1}
+[G]Old MacDonald [C]had a [G]farm, [D7]E-I-E-I-[G]O.
+And on that farm he [C]had a [G]cow, [D7]E-I-E-I-[G]O.
+[G]With a moo moo here and a moo moo there
+[G]Here a moo, there a moo, everywhere a moo moo
+Old MacDonald [C]had a [G]farm, [D7]E-I-E-I-[G]O.
+
+{comment: Verse 2}
+Old MacDonald had a farm, E-I-E-I-O.
+And on his farm he had a duck, E-I-E-I-O.
+With a quack, quack here and a quack, quack there
+Here a quack, there a quack, everywhere a quack, quack
+Old MacDonald had a farm, E-I-E-I-O.
+
+{comment: Verse etc. (Different animal)}

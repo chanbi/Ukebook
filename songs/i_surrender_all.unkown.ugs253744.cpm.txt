@@ -1,0 +1,51 @@
+{title: I Surrender All}
+{artist: Unknown}
+{album: Hymn}
+
+{comment: Verse 1}
+[C]All to Jesus [G]I surrender
+[F]All to Him I [G]freely [C]give
+[C]I will ever [G]love and trust Him
+[F]In His presence [G]daily [C]live
+
+{start_of_chorus}
+{comment: Chorus}
+[C]I surrender [Dm]all, [G]I surrender [C]all
+[C]All to Thee, my [F]blessed saviour
+[G]I surrender [C]all
+{end_of_chorus}
+
+{comment: Verse 2}
+All to Jesus I surrender, Humbly at His feet I bow,
+Worldly pleasures all forsaken, Take me, Jesus, take me now.
+
+{comment: Verse 3}
+All to Jesus I surrender, Make me, Savior, wholly Thine;
+May Thy Holy Spirit fill me, May I know Thy pow'r divine.
+
+{comment: Verse 4}
+All to Jesus I surrender, Lord, I give myself to Thee;
+Fill me with Thy love and power, Let Thy blessing fall on me.
+
+{comment: Tablature}
+{start_of_tab}
+A|---------|---------|---------|---------|
+E|-0-0-1-0-|-----0---|-----1-0-|---0-----|
+C|---------|-2-2---2-|-0-0-----|-2---0---|
+G|---------|---------|---------|---------|
+
+A|---------|---------|---------|---------|
+E|-0-0-1-0-|-----0---|-----1-0-|---0-----|
+C|---------|-2-2---2-|-0-0-----|-2---0---|
+G|---------|---------|---------|---------|
+
+A|-3-2-0-----|-2-0-------|-----0---|
+E|-------3-1-|-----3-1-0-|-0-1---3-|
+C|-----------|-----------|---------|
+G|-----------|-----------|---------|
+
+A|-3-2-2-0-|-----------|
+E|---------|-3-1-0-----|
+C|---------|-------2-0-|
+G|---------|-----------|
+{end_of_tab}

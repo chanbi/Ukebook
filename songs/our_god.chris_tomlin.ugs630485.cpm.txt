@@ -1,0 +1,62 @@
+{title: Our God}
+{artist: Chris Tomlin & Matt Redman}
+{album: Worship}
+
+{ukeGeeks-meta: <iframe width="560" height="315" src="//www.youtube.com/embed/V8V169Agj00" frameborder="0" allowfullscreen></iframe><br/><br/>}
+{ukeGeeks-meta: Original Version: <a href="http://youtu.be/wYJfuFQe4cc">http://youtu.be/wYJfuFQe4cc</a>}
+{ukeGeeks-meta: Key: B | Tempo: 65<br/><br/>}
+
+{define: D/F# frets 2 2 2 0 fingers 1 1 1 0}
+{define: D2 frets 2 2 0 0 fingers 2 3 0 0}
+{define: A2 frets 2 4 5 2 fingers 1 3 4 1 add: string 2 fret 2 finger 1 add: string 3 fret 2 finger 1}
+{define: E/G# frets 4 4 4 2 fingers 2 3 4 1}
+
+{comment: <b>Guitar 1</b> (Capo 4)}
+
+{comment: Intro} 
+{comment: D-d-d-D-d-d-D-D-}
+[Em] [C] [G] [D/F#] [Em] [C] [G] [D] 
+
+{comment: Verse 1} 
+{comment: d-d-d-d-d-d-d-d-dududud-d-d-d-d-d-d-d-d-dududud-}
+{comment: d-d-dududududududududud-}
+[Em]Water You t[C]urned into win[G]e; [Em]opened the e[C]yes of the blin[G]d.
+There's no one [Am7]like You, none like [D]You.
+
+{comment: Verse 2} 
+[Em]Into the d[C]arkness You shin[G]e; [Em]out of the a[C]shes we ris[G]e.
+There's no one l[Am7]ike You, none like [D]You.
+
+{start_of_chorus}
+{comment: Chorus} 
+{comment: d-d-d-ududud-}
+[Em]Our God is greater; [C]our God is stronger;
+[G]God, You are higher than [D/F#]any other.
+[Em]Our God is healer, [C]awesome in power,
+Our G[G]od, Our G[D]od.
+{end_of_chorus}
+
+{comment: Bridge} 
+{comment: D-d-d-D-d-d-D-D-}
+[Em]And if our God is for us, [C]then who could ever stop us;
+[G]And if our God is with us, [D/F#]then what could stand against?
+[Em]And if our God is for us, [C]then who could ever stop us;
+[G]And if our God is with us; [D]then what could stand against?
+
+{comment: Build}
+{comment: --D-D-D-D-D-D-D-}
+[Em] [C] [Bm] [D/F#] [Em] [C] [Bm] [D] 
+
+{new_page}
+
+{comment: <b>Guitar 2</b> (Capo 2)}
+
+{comment: Intro}
+[F#m] [D2] [A2] [E/G#]
+
+{comment: Verse}
+[F#m] [D2] [A2]
+[Bm7] [E/G#] 
+
+{comment: Chorus / Bridge}
+[F#m] [D2] [A2] [E/G#]

@@ -1,0 +1,31 @@
+{title: Ce que nous voulons c’est toi}
+{artist: Émilie Charette}
+{album: Louange}
+
+{define: C/E frets 0 0 0 3 fingers 0 0 0 3}
+{define: G/B frets 0 2 3 2 fingers 0 1 3 2}
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/Dh8757V8390" frameborder="0" allowfullscreen></iframe>
+
+{comment: Couplet 1}
+[Am]Brisés nous [G]venons à [C/E]toi [F]
+[Am]Épuisés [G]de tout re[Dm]commenc[C]er 
+[Am]Nos âmes soup[G]irent après [C/E]toi   [F]
+[Am]Ce que nous [G/B]voulons c’est [C]toi 
+
+{start_of_chorus}
+{comment: Refrain (x2)}
+[Am]Ce que nous [G/B]voulons c’est [C]toi
+{end_of_chorus}
+
+{comment: Couplet 2}
+[Am]Encore [G]plus [C/E]près [F]
+[Am]Nous pouvons [G]enten[Dm]dre ton [C]cœur  
+[Am]Nos âmes soup[G]irent après [C/E]toi   [F]
+[Am]Ce que nous [G/B]voulons c’est [C]toi
+
+{comment: Pont}
+[F]Descends sur [G]nous comme une [Am]pluie
+U[G/B]ne brise lé[F]gère [G] [Am] [G/B]
+[F]De la dou[G]ceur de ta pré[Am]sence
+Ta [G/B]nuée nous en[F]toure [G] [Am] [G/B]

@@ -1,0 +1,11 @@
+{title: Music Notes (English / Français)}
+{artist: Theory}
+{album: Practice}
+
+A = LA
+B = SI
+C = DO
+D = RE
+E = MI
+F = FA
+G = SOL

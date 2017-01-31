@@ -1,0 +1,43 @@
+{title: Set a Fire (Studio)}
+{artist: Will Reagan}
+{album: Worship}
+
+{ukeGeeks-meta:<iframe width="560" height="315" src="//www.youtube.com/embed/rZ9T8sJByDE" frameborder="0" allowfullscreen></iframe><br/><br/>}
+{ukeGeeks-meta:Copyright 2010 United Pursuit Music (ASCAP) CCLI# 5910881}
+{ukeGeeks-meta:Tempo: 65 | Time: 4/4}
+
+{define: C/E frets 0 0 0 3 fingers 0 0 0 3}
+{define: F/A frets 2 0 1 0 fingers 2 0 1 0}
+{define: C/G frets 0 0 0 3 fingers 0 0 0 3}
+
+{comment: Intro}
+[C][F][Am][F]
+
+{comment: Verse}
+[C]   No place I would rather be
+[F]   No place I would rather be
+[Am]   No place I would rather be
+Than h[F]ere in Your love, here in Your love
+
+{start_of_chorus}
+{comment: Chorus}
+[C]   Set a fire down in[G] my soul 
+[F]   That I can’t contain and I can’t control 
+  
+[Am]   I want more of Y[C/E]ou, God
+[F]   I want mo[Dm]re of You, God
+{end_of_chorus}
+
+{comment: Pre Chorus}
+I want more, [C]I want more
+I want more, [F]I want more
+I want more, [Am]I want more
+Won't You p[F]our it out
+
+{comment: Break}
+[C][F][Am][F]
+[C/E][F/A][C/G][F]
+
+{comment: Outro}
+[C][F/A][C/G][F]
+[C/E][F/A][C/G][F][C]

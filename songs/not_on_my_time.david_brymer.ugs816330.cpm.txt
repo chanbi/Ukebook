@@ -1,0 +1,23 @@
+{title: Not On My Time}
+{artist: David Brymer}
+{album: Worship}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UGkvesSczGs" frameborder="0" allowfullscreen></iframe>
+
+{comment: Verse}
+The an[Db]guish of my soul is when I see how far I fell from loving [Ebm]You, my L[F7]ord
+And the pl[Bbm]ace that I once knew with You is ov[Db]ergrown and left alone, but [E]You are still th[Gb]ere
+
+{comment: Pre-Chorus}
+              Ab                      Dbsus Db
+And then I realized You were not in a hurry
+You were taking Your time to make me more like You
+And there I k[Bbm]new that You were a[Ebm]ble to perfect the [Db]work You started in [Ab]me
+
+{start_of_chorus}
+{comment: Chorus}
+SO K[Db]EEP ME CLOSE TO YOU – NOT ON MY TIME, BUT ON Y[Bbm]OURS
+CAUSE I WANNA BE W[Gb]ITH YOU WHERE YOU ARE
+K[Db]EEP ME CLOSE TO YOU – NOT ON MY TIME, BUT ON Y[Bbm]OURS
+CAUSE [Db]ALL THAT I W[Ab]ANT IS Y[Db]OU
+{end_of_chorus}
