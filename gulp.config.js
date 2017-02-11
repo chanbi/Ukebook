@@ -52,6 +52,7 @@
           }
         }
       },
+      favicon: assetsDir + 'img/notebox.png',
       admin: {
         dir: adminDir,
         index: adminDir + 'index.html',
@@ -91,6 +92,11 @@
         rootDir + 'package.json',
         rootDir + 'bower.json'
       ],
+
+      /**
+       * File where the favicon markups are stored
+       */
+      faviconData: 'faviconData.json',
     };
 
     return config;

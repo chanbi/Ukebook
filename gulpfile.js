@@ -1,7 +1,6 @@
 ( function () {
   'use strict';
 
-  var args = require( 'yargs' ).argv;
   var config = require( './gulp.config' );
   var gulp = require( 'gulp' );
   var pagespeed = require( 'psi' );
@@ -23,6 +22,10 @@
   utils.task( 'styles', [ 'clean-styles' ] );
   utils.task( 'fonts', [ 'clean-fonts' ] );
   utils.task( 'images', [ 'clean-images' ] );
+
+  utils.task( 'check-favicon-update');
+  utils.task( 'generate-favicon', [ 'clean-favicon' ]);
+  utils.task( 'inject-favicon');
 
   utils.task( 'wiredep' );
   utils.task( 'templatecache', [ 'clean-code' ] );
@@ -53,7 +56,11 @@
     return utils.clean( config.dist + 'assets/img/**/*' );
   } );
 
-  gulp.task( 'clean-code-', function () {
+  gulp.task( 'clean-favicon', function () {
+    return utils.clean( config.dist + 'assets/img/favicon/**/*' );
+  } );
+
+  gulp.task( 'clean-code', function () {
     var files = [].concat(
       config.temp + config.site.templateCache.file,
       config.dist + 'site/**/*.js',
